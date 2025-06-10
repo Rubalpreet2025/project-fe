@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://project-be-t627.onrender.com';
 
 
 const api = axios.create({
